@@ -21,7 +21,6 @@
 <a href="https://twitter.com/atomeistee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atomeistee" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dmitrykulakovfrontend" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dmitrykulakovfrontend" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/eisteeatom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eisteeatom" height="30" width="40" /></a>
-<a href="https://discord.gg/AtomEistee#1086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AtomEistee#1086" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
