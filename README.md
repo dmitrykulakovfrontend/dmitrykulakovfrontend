@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/dmitrykulakovfrontend/](https://www.linkedin.com/in/dmitrykulakovfrontend/)
 
-- ⚡ Fun fact **7% of American adults believe that chocolate milk comes from brown cows**
+- ⚡ Fun fact **Bananas are curved because they grow towards the sun.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
