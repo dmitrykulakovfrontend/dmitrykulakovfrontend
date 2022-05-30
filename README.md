@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dmitry Kulakov</h1>
-<h3 align="center">A passionate frontend developer from Russia</h3>
+<h3 align="center">A Software Engineer from Russia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmitrykulakovfrontend&label=Profile%20views&color=1fe02c&style=plastic" alt="dmitrykulakovfrontend" /> </p>
 
