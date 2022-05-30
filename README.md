@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dmitry Kulakov</h1>
 <h3 align="center">A Software Engineer from Russia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dmitrykulakovfrontend&label=Profile%20views&color=1fe02c&style=plastic" alt="dmitrykulakovfrontend" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dmitrykulakovfrontend&label=Profile%20views&color=1fe02c&style=plastic" alt="dmitrykulakovfrontend" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dmitrykulakovfrontend" alt="dmitrykulakovfrontend" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dmitrykulakovfrontend&theme=monokai&column=3&margin-w=15&margin-h=15" alt="dmitrykulakovfrontend" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/atomeistee" target="blank"><img src="https://img.shields.io/twitter/follow/atomeistee?logo=twitter&style=for-the-badge" alt="atomeistee" /></a> </p>
+<p align="center"> <a href="https://twitter.com/atomeistee" target="blank"><img src="https://img.shields.io/twitter/follow/atomeistee?logo=twitter&style=for-the-badge" alt="atomeistee" /></a> </p>
 
 - 💬 Ask me about **React, JavaScript, HTML5 & CSS3**
 
