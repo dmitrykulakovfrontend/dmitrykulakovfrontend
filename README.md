@@ -1,31 +1,124 @@
-<h1 align="center">Hi 👋, I'm Dmitry Kulakov</h1>
-<h3 align="center">A Software Engineer from Russia</h3>
+![](banner.png)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dmitrykulakovfrontend&label=Profile%20views&color=1fe02c&style=plastic" alt="dmitrykulakovfrontend" /> </p>
+<p align='center'></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dmitrykulakovfrontend&theme=monokai&column=3&margin-w=15&margin-h=15" alt="dmitrykulakovfrontend" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/atomeistee" target="blank"><img src="https://img.shields.io/twitter/follow/atomeistee?logo=twitter&style=for-the-badge" alt="atomeistee" /></a> </p>
+<div align="center">
+<a href="https://www.linkedin.com/in/dmitrykulakovfrontend/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="twitter"/>
+</a>
+<a href="https://twitter.com/AtomEistee">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+<a href="mailto:atomeistee@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</div>
 
-- 💬 Ask me about **React, JavaScript, HTML5 & CSS3**
+<div align="center">
+Hey!
 
-- 📫 How to reach me **atomeistee@gmail.com**
+I’m Dmitry Kulakov, a Software Engineer, who specializes in front-end development. I love to work with people and build web applications.
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/dmitrykulakovfrontend/](https://www.linkedin.com/in/dmitrykulakovfrontend/)
+Want to know more about me? [Here my portfolio.](https://dmitrykulakov.netlify.app/)
+</div>
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/atomeistee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="atomeistee" height="30" width="40" /></a>
-<a href="https://twitter.com/atomeistee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atomeistee" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dmitrykulakovfrontend" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dmitrykulakovfrontend" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/eisteeatom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eisteeatom" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## 💼 Skills
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logocolor=4AB197)
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmitrykulakovfrontend&show_icons=true&theme=dark&locale=en&layout=compact" alt="dmitrykulakovfrontend" /></p>
+</div>
+<details align="center">
+<summary>More Skills</summary>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dmitrykulakovfrontend&show_icons=true&locale=en" alt="dmitrykulakovfrontend" /></p>
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub)
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dmitrykulakovfrontend&" alt="dmitrykulakovfrontend" /></p>
+</details>
+
+<br>
+
+
+
+<h2 align="center">📌 Pinned Repositories </h2>
+
+<div align="center">
+<br>
+
+<a href="https://github.com/dmitrykulakovfrontend/Paladins-Data">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dmitrykulakovfrontend&repo=Paladins-Data&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/dmitrykulakovfrontend/Todo-daily">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dmitrykulakovfrontend&repo=Todo-daily&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/dmitrykulakovfrontend/Code-Wars">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dmitrykulakovfrontend&repo=Code-Wars&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/dmitrykulakovfrontend/Leetcode">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dmitrykulakovfrontend&repo=Leetcode&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/dmitrykulakovfrontend/TicTacToeOOP">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dmitrykulakovfrontend&repo=TicTacToeOOP&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+<br>
+
+</div>
+
+<h2 align="center"> &#x1f4c8; GitHub Stats </h2>
+
+<div align="center">
+<a href="hss"> <img src="https://komarev.com/ghpvc/?username=dmitrykulakovfrontend&label=Profile%20views&color=1fe02c&style=plastic" alt="dmitrykulakovfrontend" /> </a>
+<br>
+<p> <a href="https://twitter.com/atomeistee" target="blank"><img src="https://img.shields.io/twitter/follow/atomeistee?logo=twitter&style=for-the-badge" alt="atomeistee" /></a> </p>
+
+
+
+<a href="https://github.com/dmitrykulakovfrontend">
+  <img style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrykulakovfrontend&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dmitrykulakovfrontend&theme=monokai&column=3&margin-w=15&margin-h=15" alt="dmitrykulakovfrontend" /></a> </p>
+
+<a href="https://github.com/dmitrykulakovfrontend">
+  <img style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=dmitrykulakovfrontend&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+</a>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=dmitrykulakovfrontend&theme=dark" alt="dmitrykulakovfrontend" /></p>
+</div>
+
+<br>
