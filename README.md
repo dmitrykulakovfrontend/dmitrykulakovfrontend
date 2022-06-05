@@ -62,63 +62,52 @@ Want to know more about me? [Here my portfolio.](https://dmitrykulakov.netlify.a
 
 
 
-<h2 align="center">📌 Pinned Repositories </h2>
-
-<div align="center">
-<br>
-
-<a href="https://github.com/dmitrykulakovfrontend/Paladins-Data">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dmitrykulakovfrontend&repo=Paladins-Data&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/dmitrykulakovfrontend/Todo-daily">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dmitrykulakovfrontend&repo=Todo-daily&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/dmitrykulakovfrontend/Code-Wars">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dmitrykulakovfrontend&repo=Code-Wars&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/dmitrykulakovfrontend/Leetcode">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dmitrykulakovfrontend&repo=Leetcode&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/dmitrykulakovfrontend/TicTacToeOOP">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dmitrykulakovfrontend&repo=TicTacToeOOP&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
-
-</div>
-
-<h2 align="center"> &#x1f4c8; GitHub Stats </h2>
-
 <div align="center">
 <a href="hss"> <img src="https://komarev.com/ghpvc/?username=dmitrykulakovfrontend&label=Profile%20views&color=1fe02c&style=plastic" alt="dmitrykulakovfrontend" /> </a>
 <br>
 <p> <a href="https://twitter.com/atomeistee" target="blank"><img src="https://img.shields.io/twitter/follow/atomeistee?logo=twitter&style=for-the-badge" alt="atomeistee" /></a> </p>
-
-
 
 <a href="https://github.com/dmitrykulakovfrontend">
   <img style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrykulakovfrontend&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dmitrykulakovfrontend&theme=monokai&column=3&margin-w=15&margin-h=15" alt="dmitrykulakovfrontend" /></a> </p>
 
-<a href="https://github.com/dmitrykulakovfrontend">
-  <img style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=dmitrykulakovfrontend&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+<div align="center">
+
+<a href="https://github.com/dmitrykulakovfrontend/Leetcode">
+  <img align="center" style="margin:0.5rem; width: 42%" src="https://github-readme-stats.vercel.app/api/pin/?username=dmitrykulakovfrontend&repo=Leetcode&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=dmitrykulakovfrontend&theme=dark" alt="dmitrykulakovfrontend" /></p>
+<br>
+
+<a href="https://github.com/dmitrykulakovfrontend/Code-Wars">
+  <img align="center" style="margin:0.5rem; width: 45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dmitrykulakovfrontend&repo=Code-Wars&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/dmitrykulakovfrontend/TicTacToeOOP">
+  <img align="center" style="margin:0.5rem; width: 48%" src="https://github-readme-stats.vercel.app/api/pin/?username=dmitrykulakovfrontend&repo=TicTacToeOOP&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/dmitrykulakovfrontend/Todo-daily">
+  <img align="center" style="margin:0.5rem; width: 51%" src="https://github-readme-stats.vercel.app/api/pin/?username=dmitrykulakovfrontend&repo=Todo-daily&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/dmitrykulakovfrontend/Paladins-Data">
+  <img align="center" style="margin:0.5rem; width: 54%" src="https://github-readme-stats.vercel.app/api/pin/?username=dmitrykulakovfrontend&repo=Paladins-Data&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+</div>
+<a href="https://github.com/dmitrykulakovfrontend">
+  <img style="margin:0.5rem; width: 57%" src="https://github-readme-stats.vercel.app/api?username=dmitrykulakovfrontend&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+</a>
+
+<p><img align="center" style="margin:0.5rem; width: 60%" src="https://github-readme-streak-stats.herokuapp.com?user=dmitrykulakovfrontend&theme=dark" alt="dmitrykulakovfrontend" /></p>
 </div>
 
 <br>
