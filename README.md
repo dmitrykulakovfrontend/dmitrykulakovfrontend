@@ -29,6 +29,8 @@ Want to know more about me? [Here my portfolio.](https://dmitrykulakov.netlify.a
 
 <div align="center">
 
+![Snake animation](https://github.com/dmitrykulakovfrontend/dmitrykulakovfrontend/blob/output/github-contribution-grid-snake.svg)
+
 ## 💼 Skills
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
