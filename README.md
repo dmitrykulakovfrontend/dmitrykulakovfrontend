@@ -1,4 +1,4 @@
-![](github-banner3.jpg)
+![](github-banner.jpg)
 
 <p align='center'></p>
 
