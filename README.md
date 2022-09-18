@@ -66,40 +66,66 @@ Want to know more about me? [Here my portfolio.](https://dmitrykulakov.netlify.a
 
 <br>
 
-
-
-<h2 align="center">📌 Pinned Repositories </h2>
-
+<h1 align="center">Projects</h1>
+<table bordercolor="#6c25be">
+  
+  
+  <tr>
+    <td colspan="2">
+      <h3 align="center">Books Hut</h3>
+        <br />
+        <a target="_blank" href="https://books-hut.netlify.app/">
+            <img src="books-hut.jpeg" width="100%" alt="Books Hut App"/>
+        </a>
+        <br />
+        <p align="center">
+  <a href="https://github.com/dmitrykulakovfrontend/Books-Hut" target="_blank">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>  
+  <a href="https://books-hut.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/WEBSITE-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
+  </a>
+      </p>
+        <p align="center"><strong>Redis, PostgreSQL, React, Node.js & TypeScript</strong> - Website-library with ability to create an account, and download/read/save books in your account.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Paladins Data</h3>
+        <br />
+        <a target="_blank" href="https://paladinsdata.herokuapp.com/">
+            <img src="paladins-data.jpeg" alt="Paladins Data App"/>
+        </a>
+        <br />
+        <p align="center">
+  <a href="https://github.com/dmitrykulakovfrontend/Paladins-Data" target="_blank">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>  
+  <a href="https://paladinsdata.herokuapp.com/" target="_blank">
+    <img src="https://img.shields.io/badge/WEBSITE-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
+  </a>
+      </p>
+        <p align="center"><strong>React, GraphQL, SCSS, Node.js, MongoDB, & Express.js</strong> - This website allows people to look at their statistic in game 'Paladins', data provided by Hi-Rez Studios API.</p>
+    </td>
+    <td width="50%" valign="top"><h3 align="center">Todo Daily</h3>
+        <br />
+        <a target="_blank" href="https://dmitrykulakovfrontend.github.io/Todo-daily/">
+            <img src="todo-daily.png" alt="Paladins Data App"/>
+        </a>
+        <br />
+        <p align="center">
+  <a href="https://github.com/dmitrykulakovfrontend/Todo-daily" target="_blank">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>  
+  <a href="https://dmitrykulakovfrontend.github.io/Todo-daily/" target="_blank">
+    <img src="https://img.shields.io/badge/WEBSITE-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
+  </a>
+      </p>
+        <p align="center"><strong>JavaScript, CSS, HTML</strong> - To-do app with all CRUD functionality and ability to write tasks for a week forward or backward.</p>
+    </td>
+  </tr>
+</table>
 <div align="center">
-<br>
-
-<a href="https://github.com/dmitrykulakovfrontend/Paladins-Data">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dmitrykulakovfrontend&repo=Paladins-Data&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/dmitrykulakovfrontend/Todo-daily">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dmitrykulakovfrontend&repo=Todo-daily&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/dmitrykulakovfrontend/Books-Hut">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dmitrykulakovfrontend&repo=Books-Hut&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/dmitrykulakovfrontend/Code-Wars">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dmitrykulakovfrontend&repo=Code-Wars&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/dmitrykulakovfrontend/Leetcode">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dmitrykulakovfrontend&repo=Leetcode&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
 
 <br>
 <br>
