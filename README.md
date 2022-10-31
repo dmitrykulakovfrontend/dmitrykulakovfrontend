@@ -23,7 +23,7 @@ Hey!
 
 I’m Dmitry Kulakov, a Software Engineer, who specializes in front-end development. I love to work with people and build web applications.
 
-Want to know more about me? [Here my portfolio.](https://dmitrykulakov.netlify.app/)
+Want to know more about me? [Here my portfolio.](https://dmitrykulakov.vercel.app/)
 </div>
 <br>
 
