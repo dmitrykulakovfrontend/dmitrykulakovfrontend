@@ -19,9 +19,7 @@
 </div>
 
 <div align="center">
-Hey!
-
-I’m Dmitry Kulakov, a Software Engineer, who specializes in front-end development. I love to work with people and build web applications.
+Hi there! I'm Dmitry Kulakov, a software engineer with a focus on front-end development. I enjoy working with people and creating web applications. My passion for coding allows me to turn ideas into tangible and user-friendly experiences for users to enjoy.In my spare time, I love to stay up-to-date on the latest developments in the tech industry and explore new technologies to improve my skillset.
 
 Want to know more about me? [Here my portfolio.](https://dmitrykulakov.vercel.app/)
 </div>
@@ -86,7 +84,7 @@ Want to know more about me? [Here my portfolio.](https://dmitrykulakov.vercel.ap
     <img src="https://img.shields.io/badge/WEBSITE-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
   </a>
       </p>
-        <p align="center"><strong>Redis, PostgreSQL, React, Node.js & TypeScript</strong> - Website-library with ability to create an account, and download/read/save books in your account.</p>
+        <p align="center"><strong>Redis, PostgreSQL, React, Node.js & TypeScript</strong> - Website library with the ability to create an account and access a wide range of books</p>
     </td>
   </tr>
   <tr>
@@ -105,7 +103,7 @@ Want to know more about me? [Here my portfolio.](https://dmitrykulakov.vercel.ap
     <img src="https://img.shields.io/badge/WEBSITE-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
   </a>
       </p>
-        <p align="center"><strong>React, GraphQL, SCSS, Node.js, MongoDB, & Express.js</strong> - This website allows people to look at their statistic in game 'Paladins', data provided by Hi-Rez Studios API.</p>
+        <p align="center"><strong>React, GraphQL, SCSS, Node.js, MongoDB, & Express.js</strong> - Web application that uses Hi-Rez Studios API to show user statistics in the game "Paladins"</p>
     </td>
     <td width="50%" valign="top"><h3 align="center">Todo Daily</h3>
         <br />
