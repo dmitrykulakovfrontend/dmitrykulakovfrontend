@@ -91,7 +91,7 @@ Want to know more about me? [Here my portfolio.](https://dmitrykulakov.vercel.ap
     <td width="50%" valign="top">
       <h3 align="center">Paladins Data</h3>
         <br />
-        <a target="_blank" href="https://paladinsdata.herokuapp.com/">
+        <a target="_blank" href="https://paladins-data.vercel.app/">
             <img src="paladins-data.jpeg" alt="Paladins Data App"/>
         </a>
         <br />
@@ -99,7 +99,7 @@ Want to know more about me? [Here my portfolio.](https://dmitrykulakov.vercel.ap
   <a href="https://github.com/dmitrykulakovfrontend/Paladins-Data" target="_blank">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>  
-  <a href="https://paladinsdata.herokuapp.com/" target="_blank">
+  <a href="https://paladins-data.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/WEBSITE-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
   </a>
       </p>
