@@ -69,7 +69,7 @@ Want to know more about me? [Here my portfolio.](https://dmitrykulakov.vercel.ap
   
   
   <tr>
-    <td colspan="2">
+    <td>
       <h3 align="center">Books Hut</h3>
         <br />
         <a target="_blank" href="https://books-hut.netlify.app/">
@@ -85,6 +85,23 @@ Want to know more about me? [Here my portfolio.](https://dmitrykulakov.vercel.ap
   </a>
       </p>
         <p align="center"><strong>Redis, PostgreSQL, React, Node.js & TypeScript</strong> - Website library with the ability to create an account and access a wide range of books</p>
+    </td>
+    <td>
+      <h3 align="center">Interview PlayBook</h3>
+        <br />
+        <a target="_blank" href="https://interviewplaybook.vercel.app/">
+            <img src="interview-play-book.webp" width="100%" alt="Interview PlayBook"/>
+        </a>
+        <br />
+        <p align="center">
+  <a href="https://github.com/dmitrykulakovfrontend/InterviewPlayBook" target="_blank">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>  
+  <a href="https://interviewplaybook.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/WEBSITE-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
+  </a>
+      </p>
+        <p align="center"><strong>Next.js, TypeScript, Tailwind, tRPC & Prisma</strong> - Full-stack application to improve answers in interviews by completing quizzes!</p>
     </td>
   </tr>
   <tr>
