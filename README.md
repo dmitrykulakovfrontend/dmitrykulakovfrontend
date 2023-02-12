@@ -147,15 +147,15 @@ Want to know more about me? [Here my portfolio.](https://dmitrykulakov.vercel.ap
 
 </div>
 
-<h2 align="center"> &#x1f4c8; GitHub Stats </h2>
+<h2 align="center"> &#x1f4c8; Stats </h2>
 
 <div align="center">
 <a href="hss"> <img src="https://komarev.com/ghpvc/?username=dmitrykulakovfrontend&label=Profile%20views&color=1fe02c&style=plastic" alt="dmitrykulakovfrontend" /> </a>
 <br>
-<p> <a href="https://twitter.com/atomeistee" target="blank"><img src="https://img.shields.io/twitter/follow/atomeistee?logo=twitter&style=for-the-badge" alt="atomeistee" /></a> </p>
 
 
 
+<p><a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/dmitrykulakovfrontend/dmitrykulakovfrontend/blob/main/devcard.svg" width="250" alt="dmitry kulakov Dev Card"/></a></p>
 <a href="https://github.com/dmitrykulakovfrontend">
   <img style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrykulakovfrontend&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
@@ -166,6 +166,9 @@ Want to know more about me? [Here my portfolio.](https://dmitrykulakov.vercel.ap
 </a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=dmitrykulakovfrontend&theme=dark" alt="dmitrykulakovfrontend" /></p>
+<p><a href="https://www.codewars.com/users/Dmitry%20Kulakov">
+  <img width="500" src="https://www.codewars.com/users/Dmitry%20Kulakov/badges/large?theme=dark" />
+</a> </p>
 </div>
 
 <br>
