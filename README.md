@@ -156,8 +156,8 @@ Want to know more about me? [Here my portfolio.](https://dmitrykulakov.vercel.ap
 <br>
 
 
+<!-- daily.dev card <p><a href="https://app.daily.dev/AtomEistee"><img src="https://github.com/dmitrykulakovfrontend/dmitrykulakovfrontend/blob/main/devcard.svg" width="250" alt="dmitry kulakov Dev Card"/></a></p> -->
 
-<p><a href="https://app.daily.dev/AtomEistee"><img src="https://github.com/dmitrykulakovfrontend/dmitrykulakovfrontend/blob/main/devcard.svg" width="250" alt="dmitry kulakov Dev Card"/></a></p>
 <a href="https://github.com/dmitrykulakovfrontend">
   <img style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrykulakovfrontend&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
