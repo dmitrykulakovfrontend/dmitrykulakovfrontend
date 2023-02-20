@@ -161,7 +161,7 @@ Want to know more about me? [Here my portfolio.](https://dmitrykulakov.vercel.ap
 <a href="https://github.com/dmitrykulakovfrontend">
   <img style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrykulakovfrontend&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dmitrykulakovfrontend&theme=monokai&column=3&margin-w=15&margin-h=15" alt="dmitrykulakovfrontend" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dmitrykulakovfrontend&theme=monokai&column=3&row=2&margin-w=15&margin-h=15" alt="dmitrykulakovfrontend" /></a> </p>
 
 <a href="https://github.com/dmitrykulakovfrontend">
   <img style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=dmitrykulakovfrontend&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
