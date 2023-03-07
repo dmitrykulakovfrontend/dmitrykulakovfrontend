@@ -16,6 +16,9 @@
 <a href="https://angel.co/u/dmitrykulakovfrontend">
   <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black"/>
 </a>
+<a href=" https://wakatime.com/@atomeistee">
+  <img src="https://wakatime.com/badge/user/e4e7f0f2-a74c-4896-aca9-cd0e041e3286.svg?style=for-the-badge"/>
+</a>
 </div>
 
 <div align="center">
@@ -159,13 +162,16 @@ Want to know more about me? [Here my portfolio.](https://dmitrykulakov.vercel.ap
 <!-- daily.dev card <p><a href="https://app.daily.dev/AtomEistee"><img src="https://github.com/dmitrykulakovfrontend/dmitrykulakovfrontend/blob/main/devcard.svg" width="250" alt="dmitry kulakov Dev Card"/></a></p> -->
 
 <a href="https://github.com/dmitrykulakovfrontend">
-  <img style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrykulakovfrontend&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img style="margin:0.5rem" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrykulakovfrontend&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dmitrykulakovfrontend&theme=monokai&column=3&row=2&margin-w=15&margin-h=15" alt="dmitrykulakovfrontend" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=dmitrykulakovfrontend&theme=monokai&column=3&row=2&margin-w=15&margin-h=15" alt="dmitrykulakovfrontend" /></a> </p>
 
 <a href="https://github.com/dmitrykulakovfrontend">
-  <img style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=dmitrykulakovfrontend&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+  <img  width="400" src="https://github-readme-stats.vercel.app/api?username=dmitrykulakovfrontend&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a>
+
+<p>
+  <img width="450" src="https://github-readme-stats.vercel.app/api/wakatime?username=atomeistee&langs_count=7" alt="Martin's GitHub Stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=dmitrykulakovfrontend&theme=dark" alt="dmitrykulakovfrontend" /></p>
 <p><a href="https://www.codewars.com/users/Dmitry%20Kulakov">
