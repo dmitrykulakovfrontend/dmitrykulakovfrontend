@@ -162,7 +162,7 @@ Want to know more about me? [Here my portfolio.](https://dmitrykulakov.vercel.ap
 <!-- daily.dev card <p><a href="https://app.daily.dev/AtomEistee"><img src="https://github.com/dmitrykulakovfrontend/dmitrykulakovfrontend/blob/main/devcard.svg" width="250" alt="dmitry kulakov Dev Card"/></a></p> -->
 
 <a href="https://github.com/dmitrykulakovfrontend">
-  <img style="margin:0.5rem" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrykulakovfrontend&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&hide=JupyterNotebook" />
+  <img style="margin:0.5rem" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrykulakovfrontend&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&hide=jupyter%20notebook" />
 </a>
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=dmitrykulakovfrontend&theme=monokai&column=3&row=2&margin-w=15&margin-h=15" alt="dmitrykulakovfrontend" /></a> </p>
 
