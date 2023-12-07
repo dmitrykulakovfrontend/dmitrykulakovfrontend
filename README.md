@@ -3,28 +3,24 @@
 <p align='center'></p>
 
 
-<div align="center">
-<a href="https://www.linkedin.com/in/dmitrykulakovfrontend/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="twitter"/>
-</a>
-<a href="https://twitter.com/AtomEistee">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-<a href="mailto:atomeistee@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://angel.co/u/dmitrykulakovfrontend">
-  <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black"/>
-</a>
-<a href=" https://wakatime.com/@atomeistee">
-  <img src="https://wakatime.com/badge/user/e4e7f0f2-a74c-4896-aca9-cd0e041e3286.svg?style=for-the-badge"/>
-</a>
+</br>
+<div align="center" style="padding-top:64px">
+  <p align="center">
+    <a href="https://dmitrykulakov.vercel.app/"><strong>Portfolio</strong></a>
+    ·
+    <a href="https://www.linkedin.com/in/dmitrykulakovfrontend/"><strong>Linkedin</strong></a>
+    ·
+    <a href="https://twitter.com/AtomEistee"><strong>Twitter</strong></a>
+    ·
+    <a href="https://drive.google.com/file/d/1Y8oBnZOAU0qBaXed5PAhMu_6ff4xMHFV/view?usp=sharing"><strong>Resume</strong></a>
+  </p>
 </div>
+</br>
 
 <div align="center">
 Hi there! I'm Dmitry Kulakov, a software engineer with a focus on front-end development. I enjoy working with people and creating web applications. My passion for coding allows me to turn ideas into tangible and user-friendly experiences for users to enjoy.In my spare time, I love to stay up-to-date on the latest developments in the tech industry and explore new technologies to improve my skillset.
 
-Want to know more about me? [Here my portfolio.](https://dmitrykulakov.vercel.app/)
+Want to know more about me? [Portfolio.](https://dmitrykulakov.vercel.app/)
 </div>
 <br>
 
@@ -67,90 +63,135 @@ Want to know more about me? [Here my portfolio.](https://dmitrykulakov.vercel.ap
 
 </details>
 
-<br>
+<br/>
 
-<h1 align="center">Projects</h1>
-<table bordercolor="#6c25be">
-  
-  
-  <tr>
-    <td>
-      <h3 align="center">Books Hut</h3>
-        <br />
-        <a target="_blank" href="https://books-hut.netlify.app/">
-            <img src="books-hut.jpeg" width="100%" alt="Books Hut App"/>
+<h1 align="center" style="padding-top:64px">Personal Projects</h1>
+<table bordercolor="#66b2b2">
+    <tr>
+    <td valign="top">
+      <h3 align="center">Paladins Data</h3>
+        <a target="_blank" href="https://paladins-data.vercel.app/">
+          <p align="center">
+            <img width="75%" src="paladins-data.jpeg" alt="Paladins Data App"/>
+          </p>
         </a>
-        <br />
         <p align="center">
-  <a href="https://github.com/dmitrykulakovfrontend/Books-Hut" target="_blank">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/dmitrykulakovfrontend/Paladins-Data" target="_blank">
+      <img src="https://img.shields.io/badge/source%20code-%23121011.svg?style=for-the-badge"/>
   </a>  
-  <a href="https://books-hut.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/WEBSITE-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
+  <a href="https://paladins-data.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/WEBSITE-%23117AC9.svg?style=for-the-badge"/>
   </a>
       </p>
-        <p align="center"><strong>Redis, PostgreSQL, React, Node.js & TypeScript</strong> - Website library with the ability to create an account and access a wide range of books</p>
+        <p align="center"><strong>React, GraphQL, SCSS, Node.js, MongoDB, & Express.js</strong> - Web application that uses Hi-Rez Studios API to show user statistics from the game "Paladins"</p>
+        <br />
     </td>
+  </tr>
+    <tr>
     <td>
       <h3 align="center">Interview PlayBook</h3>
-        <br />
         <a target="_blank" href="https://interviewplaybook.vercel.app/">
-            <img src="interview-play-book.webp" width="100%" alt="Interview PlayBook"/>
+          <p align="center">
+            <img src="interview-play-book.webp" width="75%" alt="Interview PlayBook"/>
+          </p>
         </a>
         <br />
         <p align="center">
   <a href="https://github.com/dmitrykulakovfrontend/InterviewPlayBook" target="_blank">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/source%20code-%23121011.svg?style=for-the-badge"/>
   </a>  
   <a href="https://interviewplaybook.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/WEBSITE-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WEBSITE-%23117AC9.svg?style=for-the-badge"/>
   </a>
       </p>
-        <p align="center"><strong>Next.js, TypeScript, Tailwind, tRPC & Prisma</strong> - Full-stack application to improve answers in interviews by completing quizzes!</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Paladins Data</h3>
-        <br />
-        <a target="_blank" href="https://paladins-data.vercel.app/">
-            <img src="paladins-data.jpeg" alt="Paladins Data App"/>
-        </a>
-        <br />
-        <p align="center">
-  <a href="https://github.com/dmitrykulakovfrontend/Paladins-Data" target="_blank">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>  
-  <a href="https://paladins-data.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/WEBSITE-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
-  </a>
-      </p>
-        <p align="center"><strong>React, GraphQL, SCSS, Node.js, MongoDB, & Express.js</strong> - Web application that uses Hi-Rez Studios API to show user statistics in the game "Paladins"</p>
-    </td>
-    <td width="50%" valign="top"><h3 align="center">Todo Daily</h3>
-        <br />
-        <a target="_blank" href="https://dmitrykulakovfrontend.github.io/Todo-daily/">
-            <img src="todo-daily.png" alt="Paladins Data App"/>
-        </a>
-        <br />
-        <p align="center">
-  <a href="https://github.com/dmitrykulakovfrontend/Todo-daily" target="_blank">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>  
-  <a href="https://dmitrykulakovfrontend.github.io/Todo-daily/" target="_blank">
-    <img src="https://img.shields.io/badge/WEBSITE-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
-  </a>
-      </p>
-        <p align="center"><strong>JavaScript, CSS, HTML</strong> - To-do app with all CRUD functionality and ability to write tasks for a week forward or backward.</p>
+        <p width="50%" align="center"><strong>Next.js, MongoDB, TypeScript, Tailwind, tRPC & Prisma</strong> - Full-stack application to improve answers in interviews by completing quizzes, leaving comments to help others and liking the best quizzes!</p>
     </td>
   </tr>
 </table>
-<div align="center">
+<!-- OPEN SOURCE CONTRIBUTION -->
+<h1 align="center" style="padding-top:64px">Open Source Contributions</h1>
+<table bordercolor="#66b2b2">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Biodrop</h3>
+        <br />
+        <a target="_blank" href="https://www.biodrop.io/">
+        <p align="center">
+            <img align="center" src="biodrop.png" width="75%" alt="eCommerce App"/>
+        </p>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/EddieHubCommunity/BioDrop" target="_blank">
+    <img src="https://img.shields.io/badge/repository-%23121011.svg?style=for-the-badge"/>
+  </a>  
+  <a href="https://www.biodrop.io/" target="_blank">
+    <img src="https://img.shields.io/badge/WEBSITE-%23117AC9.svg?style=for-the-badge"/>
+  </a>
+    <a href="https://github.com/EddieHubCommunity/BioDrop/pulls?q=is%3Apr+author%3Admitrykulakovfrontend+is%3Aclosed" target="_blank">
+    <img src="https://img.shields.io/badge/pull%20requests-%23121011.svg?style=for-the-badge"/>
+  </a> 
+    <a href="https://github.com/EddieHubCommunity/BioDrop/issues?q=is%3Aissue+author%3Admitrykulakovfrontend+is%3Aclosed" target="_blank">
+    <img src="https://img.shields.io/badge/issues-%23117AC9.svg?style=for-the-badge"/>
+  </a> 
+      </p>
+        <p align="center">Open source contributor to Biodrop an open-source project to connect users to their audience with a single link
+showcasing the content they create and their projects in one place.</p>
+        <div align="center">
+          <h3>What I've worked on:</h3>
+          <p>Implemented new features</p>
+          <p>Refactored authorization process</p>
+          <p>Created new tests</p>
+        </div>
+    </td>
+  </tr>
+</table>
+
+
+<!-- Certificates -->
+
+<h1 align="center" style="padding-top:64px">Certificates</h1>
+<table bordercolor="#66b2b2">
+  <tr>
+   <td >
+      <h3 align="center">2nd place in biggest Russian hackathon "Leaders of Digital Transformations"</h3>
+        <br />
+        <a target="_blank" href="https://drive.google.com/file/d/18KHulWGIMLSOEuaTeVlR-tEOBcPHYWUR/view?usp=sharing">
+        <p align="center">
+            <img align="center" src="hackathon1.png" width="40%"/>
+        </p>
+        </a>
+     <p align="center">Our team secured 2nd place in a highly competitive competition with 7,000+ participants and a $500,000 prize budget. We developed an advanced service for calculating investments in
+industrial enterprise development. Utilizing machine learning algorithms, our data scientists improved salary calculations by up to 20%. Our dedicated team of backend and frontend
+developers, data scientists, and a designer committed 6+ hours daily to coding and meeting milestones. We were recognized as finalists among 210 participants teams in our topic.</p>
+    </td>
+  </tr>
+  <tr>
+   <td >
+      <h3 align="center">CS50x Harvard course</h3>
+        <br />
+        <a target="_blank" href="https://drive.google.com/file/d/18KHulWGIMLSOEuaTeVlR-tEOBcPHYWUR/view?usp=sharing">
+        <p align="center">
+            <img align="center" src="cs50.png" width="50%"/>
+        </p>
+        </a>
+     <p align="center">Completed full course of computer science which includes ten problem sets, ten labs and a final project</p>
+        <div align="center">
+          <h3>Gained knowledge:</h3>
+          <p>Computer science
+concepts: algorithms, data structures, and
+complexity analysis.</p>
+          <p>Basic Proficiency in C and Python</p>
+          <p>Better understanding of programming paradigms</p>
+        </div>
+    </td>
+  </tr>
+</table>
 
 <br>
 <br>
 
-</div>
 
 <h2 align="center"> &#x1f4c8; Stats </h2>
 
